@@ -72,11 +72,4 @@
       </plugins>
     </pluginManagement>
   </build>
-  <distributionManagement>
-    <snapshotRepository>
-        <id>snapshots</id>
-        <name>ui-rt-snapshots</name>
-        <url>https://PLACEHOLDER_URL/artifactory/REPO_PLACEHOLDER</url>
-    </snapshotRepository>
-</distributionManagement>
 </project>
