@@ -4,10 +4,14 @@
   <servers>
     <server>
       <username>vickydesai642@gmail.com</username>
+      <password></password>
+      
       <id>central</id>
     </server>
     <server>
       <username>vickydesai642@gmail.com</username>
+      <password></password>
+      
       <id>snapshots</id>
     </server>
   </servers>
